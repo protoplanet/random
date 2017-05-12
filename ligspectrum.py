@@ -2,8 +2,6 @@
 
 # Author: Miroslav Mocak
 # Date: 13/August/2016
-# Slovak Organization For Space Activities
-
 
 import numpy as np
 import matplotlib.pyplot as plt
